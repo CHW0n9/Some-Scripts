@@ -11,7 +11,7 @@
     tkinter
     json
   
-# alog.command
+# alog.command:
   runs on OS X or Linux
   
   (so many bugs, need someone help me fixed it)
